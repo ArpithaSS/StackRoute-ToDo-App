@@ -1,0 +1,20 @@
+html, body{
+  height: 100%;
+  margin: 0;
+}
+
+
+
+.main-content {
+
+  height: 80vh !important;
+} 
+
+.container {
+  height: 100vh;
+  background-color: rgb(65, 64, 64);
+}
+
+.header-row, .footer-row {
+  height: 10vh;
+}
